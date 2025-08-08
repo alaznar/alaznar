@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my first [Python Project](Garmin Data.md) I publish on my GitHub repository
+
 <!--
 **alaznar/alaznar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
